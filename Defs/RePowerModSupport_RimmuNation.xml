@@ -1,0 +1,51 @@
+<Defs>
+	<RePower.RePowerDef>
+		<!-- RN Apparel bench -->
+		<defName>RePowerRNBench_Tailor</defName>
+		<targetDef>RNBench_Tailor</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-250</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>	
+	
+	<RePower.RePowerDef>
+		<!-- RN CQB bench -->
+		<defName>RePowerRNBench_CQB</defName>
+		<targetDef>RNBench_CQB</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-250</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>	
+	
+	<RePower.RePowerDef>
+		<!-- RN Rifleman bench -->
+		<defName>RePowerRNBench_Rifleman</defName>
+		<targetDef>RNBench_Rifleman</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-250</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>	
+	
+	<RePower.RePowerDef>
+		<!-- RN Marksman bench -->
+		<defName>RePowerRNBench_Marksman</defName>
+		<targetDef>RNBench_Marksman</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-250</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>	
+	
+	<RePower.RePowerDef>
+		<!-- RN Heavy bench -->
+		<defName>RePowerRNBench_Heavy</defName>
+		<targetDef>RNBench_Heavy</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-250</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>	
+</Defs>

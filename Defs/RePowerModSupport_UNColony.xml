@@ -1,0 +1,72 @@
+<Defs>
+	<RePower.RePowerDef>
+		<!-- Electric Arc Furnace -->
+		<defName>RePowerSadjuukElectricArcFurnace</defName>
+		<targetDef>SadjuukElectricArcFurnace</targetDef>
+		<lowPower>-400</lowPower>
+		<highPower>-3000</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>
+
+	<RePower.RePowerDef>
+		<!-- Metalworking Line -->
+		<defName>RePowerSadjuukMetalworkingLineB</defName>
+		<targetDef>SadjuukMetalworkingLineB</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-400</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>
+
+	<RePower.RePowerDef>
+		<!-- Assembly Line -->
+		<defName>RePowerSadjuukAssemblyLineB</defName>
+		<targetDef>SadjuukAssemblyLineB</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-400</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>	
+	
+	<RePower.RePowerDef>
+		<!-- Construction Machinery -->
+		<defName>RePowerSadjuukConstructionMachinery</defName>
+		<targetDef>SadjuukConstructionMachinery</targetDef>
+		<lowPower>-20</lowPower>
+		<highPower>-800</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>
+	
+	<RePower.RePowerDef>
+		<!-- Fuel Oil Refinery -->
+		<defName>RePowerSadjuukRefineryA</defName>
+		<targetDef>SadjuukRefineryA</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-400</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>
+
+	<RePower.RePowerDef>
+		<!-- Diesel Refinery -->
+		<defName>RePowerSadjuukRefineryB</defName>
+		<targetDef>SadjuukRefineryB</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-400</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>
+
+	<RePower.RePowerDef>
+		<!-- Advanced Refinery -->
+		<defName>RePowerSadjuukRefineryC</defName>
+		<targetDef>SadjuukRefineryC</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-600</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>
+
+</Defs>

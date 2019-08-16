@@ -1,0 +1,31 @@
+<Defs>
+	<RePower.RePowerDef>
+		<!-- Robotics production casket -->
+		<defName>RePowerAndroidProductionVat</defName>
+		<targetDef>AndroidProductionVat</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-1000</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>	
+	
+	<RePower.RePowerDef>
+		<!-- Android Implants workbench -->
+		<defName>RePowerAndroidOtherStuffTable</defName>
+		<targetDef>AndroidOtherStuffTable</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-700</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>	
+	
+	<RePower.RePowerDef>
+		<!-- Android parts workbench -->
+		<defName>RePowerAndroidPartsTable</defName>
+		<targetDef>AndroidPartsTable</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-700</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>
+</Defs>

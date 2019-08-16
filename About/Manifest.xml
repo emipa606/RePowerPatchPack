@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <identifier>RePowerPatchPack</identifier>
+  <version>1.0.0.0</version>
+  <dependencies>
+    <li>[1.0]RePower</li>
+  </dependencies>
+  <incompatibleWith />
+  <loadBefore />
+  <loadAfter>
+    <li>[1.0]RePower</li>
+    <li>VGPGardenGourmet</li>
+    <li>VGPGardenFabrics</li>
+    <li>1-UN-Colony[1.0]</li>
+    <li>RT'sWeaponPackCEVersion[1.0]</li>
+    <li>RT'sWeaponPack[1.0]</li>
+    <li>[CP]Rimmu-Nation-Clothing(1.0)</li>
+    <li>[CP]Rimmu-Nation-Weapons(1.0)</li>
+    <li>Rimefeller</li>
+    <li>Rimatomics</li>
+    <li>Rah'sBionicsandSurgeryExpansion</li>
+    <li>RBSEHardcoreEdition</li>
+    <li>ProjectRimFactory-Core</li>
+    <li>ProjectRimFactory3.0-PublicBeta</li>
+    <li>HighTechLaboratoryFacilities</li>
+    <li>GloomyFurniture</li>
+    <li>ExpandedProstheticsandOrganEngineering</li>
+    <li>ElectricStonecuttingTable</li>
+    <li>[1.0]Ceramics</li>
+    <li>JecsTools</li>
+    <li>HumanoidAlienRaces2.0</li>
+    <li>[1.0]Androidtiers</li>
+  </loadAfter>
+  <manifestUri>https://raw.githubusercontent.com/emipa606/RePowerPatchPack/master/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/emipa606/RePowerPatchPack/releases/latest</downloadUri>
+</Manifest>

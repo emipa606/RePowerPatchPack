@@ -1,0 +1,31 @@
+<Defs>
+	<RePower.RePowerDef>
+		<!-- Electric Stove -->
+		<defName>RePowerGL_ElectricStove</defName>
+		<targetDef>GL_ElectricStove</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-800</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>	
+	
+	<RePower.RePowerDef>
+		<!-- Electric Tailoring Bench -->
+		<defName>RePowerGL_ElectricTailoringBench</defName>
+		<targetDef>GL_ElectricTailoringBench</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-400</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>	
+	
+	<RePower.RePowerDef>
+		<!-- Electric Smithy -->
+		<defName>RePowerGL_ElectricSmithy</defName>
+		<targetDef>GL_ElectricSmithy</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-500</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>	
+</Defs>

@@ -1,0 +1,11 @@
+<Defs>
+	<RePower.RePowerDef>
+		<!-- Weapon Assembly Table -->
+		<defName>RePowerRT_WeaponAssemblyTable</defName>
+		<targetDef>RT_WeaponAssemblyTable</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-800</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>	
+</Defs>

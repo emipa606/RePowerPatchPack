@@ -1,0 +1,42 @@
+<Defs>
+	<RePower.RePowerDef>
+		<!-- Rimatomics research bench -->
+		<defName>RePowerNuclearResearchBench</defName>
+		<targetDef>NuclearResearchBench</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-600</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>
+
+	<RePower.RePowerDef>
+		<!-- Rimatomics machining table -->
+		<defName>RePowerTableRimatomicsMachining</defName>
+		<targetDef>TableRimatomicsMachining</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-800</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>
+
+	<RePower.RePowerDef>
+		<!-- Reactor console -->
+		<defName>RePowerReactorControl</defName>
+		<targetDef>ReactorControl</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-400</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>
+	
+	<RePower.RePowerDef>
+		<!-- Weapons console -->
+		<defName>RePowerPPCWeaponsConsole</defName>
+		<targetDef>PPCWeaponsConsole</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-400</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>
+
+</Defs>

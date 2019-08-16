@@ -1,0 +1,31 @@
+<Defs>
+	<RePower.RePowerDef>
+		<!-- Electric ceramics bench -->
+		<defName>RePowerCeramicsBench_Electric</defName>
+		<targetDef>CeramicsBench_Electric</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-400</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>	
+	
+	<RePower.RePowerDef>
+		<!-- Electric kiln -->
+		<defName>RePowerBuilding_ElectricKiln</defName>
+		<targetDef>Building_ElectricKiln</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-600</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>
+	
+	<RePower.RePowerDef>
+		<!-- Materials processing bench -->
+		<defName>RePowerMaterialProcessor</defName>
+		<targetDef>MaterialProcessor</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-700</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>	
+</Defs>
