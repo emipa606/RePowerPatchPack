@@ -35,11 +35,13 @@ If you are using a mod that is missing here, just leave a comment with a link to
 
 
 **[Project RimFactory 3.0 - Public Beta](https://steamcommunity.com/sharedfiles/filedetails/?id=1414438179)**
+
 **[ProjectRimFactory - Core](https://github.com/spdskatr/ProjectRimFactory/releases/latest)**
 - Robotic machining table (10W Idle, 900W Active)
 
 
 **[[1.0] Rah's Bionics and Surgery Expansion](https://steamcommunity.com/workshop/filedetails/?id=850429707)**
+
 **[[1.0] Rah's Bionics and Surgery Expansion - Hardcore Edition](https://steamcommunity.com/workshop/filedetails/?id=850428056)**
 - Advanced Medical Station (10W Idle, 1500W Active)
 - Bionic Workbench (10W Idle, 1500W Active)
@@ -65,6 +67,10 @@ If you are using a mod that is missing here, just leave a comment with a link to
 - RN Rifleman bench (10W Idle, 250W Active)
 - RN Marksman bench (10W Idle, 250W Active)
 - RN Heavy bench (10W Idle, 250W Active)
+
+
+**[[CP] Rimmu-Nation - Gloves N' Boots (1.0)](https://steamcommunity.com/sharedfiles/filedetails/?id=1836963709)**
+- RN Mini tailor (10W Idle, 180W Active)
 
 
 **[1- UN-Colony [1.0]](https://steamcommunity.com/workshop/filedetails/?id=1542036108)**
