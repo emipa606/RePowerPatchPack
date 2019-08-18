@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
   <identifier>RePowerPatchPack</identifier>
-  <version>1.0.0.0</version>
+  <version>1.0.1.0</version>
   <dependencies>
     <li>[1.0]RePower</li>
   </dependencies>
@@ -16,6 +16,7 @@
     <li>RT'sWeaponPack[1.0]</li>
     <li>[CP]Rimmu-Nation-Clothing(1.0)</li>
     <li>[CP]Rimmu-Nation-Weapons(1.0)</li>
+    <li>[CP]Rimmu-Nation-GlovesN'Boots(1.0)</li>
     <li>Rimefeller</li>
     <li>Rimatomics</li>
     <li>Rah'sBionicsandSurgeryExpansion</li>
