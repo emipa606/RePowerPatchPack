@@ -47,5 +47,15 @@
 		<highPower>-250</highPower>
 		<poweredWorkbench>true</poweredWorkbench>
 		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>
+	
+	<RePower.RePowerDef>
+		<!-- RN Mini tailor -->
+		<defName>RePowerRNBench_MiniTailor</defName>
+		<targetDef>RNBench_MiniTailor</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-180</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
 	</RePower.RePowerDef>	
 </Defs>
