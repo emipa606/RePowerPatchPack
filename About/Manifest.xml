@@ -1,13 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
   <identifier>RePowerPatchPack</identifier>
-  <version>1.0.1.0</version>
-  <dependencies>
-    <li>[1.0]RePower</li>
-  </dependencies>
+  <version>1.0.2.0</version>
+  <dependencies />
   <incompatibleWith />
   <loadBefore />
   <loadAfter>
+    <li>RePowerReborn</li>
     <li>[1.0]RePower</li>
     <li>VGPGardenGourmet</li>
     <li>VGPGardenFabrics</li>
