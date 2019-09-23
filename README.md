@@ -93,4 +93,14 @@ If you are using a mod that is missing here, just leave a comment with a link to
 - Electric Loom (10W Idle, 500W Active)
 
 
+**[Endgame Buildings](https://steamcommunity.com/workshop/filedetails/?id=1743009906)**
+- Hi-tech Kitchen (10W Idle, 1000W Active)
+- Planetary Drill (10W Idle, 1000W Active)
+- Vitals Monitor MKII (10W Idle, 500W Active)
+
+
+**[Planetary Drill+](https://steamcommunity.com/workshop/filedetails/?id=1788136410)**
+- Planetary Drill+ (10W Idle, 7000W Active)
+
+
 Support-chat here: https://s.team/chat/KUDuzMGR
