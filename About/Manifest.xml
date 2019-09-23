@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
   <identifier>RePowerPatchPack</identifier>
-  <version>1.0.2.0</version>
+  <version>1.0.3.0</version>
   <dependencies />
   <incompatibleWith />
   <loadBefore />
@@ -30,6 +30,8 @@
     <li>JecsTools</li>
     <li>HumanoidAlienRaces2.0</li>
     <li>[1.0]Androidtiers</li>
+    <li>EndgameBuildings</li>
+    <li>PlanetaryDrill+</li>
   </loadAfter>
   <manifestUri>https://raw.githubusercontent.com/emipa606/RePowerPatchPack/master/About/Manifest.xml</manifestUri>
   <downloadUri>https://github.com/emipa606/RePowerPatchPack/releases/latest</downloadUri>
