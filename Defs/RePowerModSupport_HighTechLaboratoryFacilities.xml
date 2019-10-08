@@ -1,6 +1,6 @@
 <Defs>
 	<RePower.RePowerDef>
-		<!-- VGP Electric Oven-->
+		<!-- Lab station -->
 		<defName>RePowerLabStation</defName>
 		<targetDef>LabStation</targetDef>
 		<lowPower>-10</lowPower>
@@ -10,7 +10,7 @@
 	</RePower.RePowerDef>
 
 	<RePower.RePowerDef>
-		<!-- VGP Food Prep Table -->
+		<!-- Lab terminal -->
 		<defName>RePowerLabTerminal</defName>
 		<targetDef>LabTerminal</targetDef>
 		<lowPower>-10</lowPower>
