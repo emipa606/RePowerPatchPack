@@ -113,5 +113,7 @@ If you are using a mod that is missing here, just leave a comment with a link to
 - Electric Drug Lab (10W Idle, 900W Active)
 - Electric Stone Cutter (10W Idle, 600W Active)
 
+**[A Dog Said... Animal Prosthetics](https://steamcommunity.com/workshop/filedetails/?id=746425621)**
+- Animal prosthetics table (10W Idle, 250W Active)
 
 Support-chat here: https://s.team/chat/KUDuzMGR
