@@ -116,4 +116,7 @@ If you are using a mod that is missing here, just leave a comment with a link to
 **[A Dog Said... Animal Prosthetics](https://steamcommunity.com/workshop/filedetails/?id=746425621)**
 - Animal prosthetics table (10W Idle, 250W Active)
 
+**[MendAndRecycle](https://steamcommunity.com/workshop/filedetails/?id=735241897)**
+- Mending workbench (10W Idle, 600W Active)
+
 Support-chat here: https://s.team/chat/KUDuzMGR
