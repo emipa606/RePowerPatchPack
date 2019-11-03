@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
   <identifier>RePowerPatchPack</identifier>
-  <version>1.0.5.0</version>
+  <version>1.0.6.0</version>
   <dependencies />
   <incompatibleWith />
   <loadBefore />
@@ -34,6 +34,7 @@
     <li>PlanetaryDrill+</li>
     <li>VanillaFurnitureExpanded-Production</li>
     <li>ADogSaid...AnimalProsthetics</li>
+    <li>MendAndRecycle</li>
   </loadAfter>
   <manifestUri>https://raw.githubusercontent.com/emipa606/RePowerPatchPack/master/About/Manifest.xml</manifestUri>
   <downloadUri>https://github.com/emipa606/RePowerPatchPack/releases/latest</downloadUri>
