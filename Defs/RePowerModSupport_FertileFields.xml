@@ -1,0 +1,11 @@
+<Defs>
+	<RePower.RePowerDef>
+		<!-- Rock mill -->
+		<defName>RePowerRockMill</defName>
+		<targetDef>RockMill</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-900</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>	
+</Defs>
