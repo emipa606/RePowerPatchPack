@@ -129,4 +129,7 @@ If you are using a mod that is missing here, just leave a comment with a link to
 **[[RF] Fertile Fields [1.0]](https://steamcommunity.com/workshop/filedetails/?id=1539311500)**
 - Rock mill (10W Idle, 900W Active)
 
+**[Expanded Woodworking](https://steamcommunity.com/workshop/filedetails/?id=1082915328)**
+- Electric woodworking table (10W Idle, 600W Active)
+
 Support-chat here: https://s.team/chat/KUDuzMGR
