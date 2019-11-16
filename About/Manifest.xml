@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
   <identifier>RePowerPatchPack</identifier>
-  <version>1.0.7.0</version>
+  <version>1.0.8.0</version>
   <dependencies />
   <incompatibleWith />
   <loadBefore />
@@ -37,6 +37,7 @@
     <li>MendAndRecycle</li>
     <li>Whatthehack?!</li>
     <li>[RF]FertileFields[1.0]</li>
+    <li>ExpandedWoodworking</li>
   </loadAfter>
   <manifestUri>https://raw.githubusercontent.com/emipa606/RePowerPatchPack/master/About/Manifest.xml</manifestUri>
   <downloadUri>https://github.com/emipa606/RePowerPatchPack/releases/latest</downloadUri>
