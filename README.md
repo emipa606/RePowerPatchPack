@@ -122,9 +122,6 @@ If you are using a mod that is missing here, just leave a comment with a link to
 **[What the hack?!](https://steamcommunity.com/workshop/filedetails/?id=1505914869)**
 - Mechanoid hacking facility (10W Idle, 700W Active)
 - Mechanoid workshop (10W Idle, 900W Active)
-- Mechanoid platform (10W Idle, 800W Active)
-- Hiveship hacking facility (10W Idle, 600W Active)
-- Rogue AI (10W Idle, 800W Active)
 
 **[[RF] Fertile Fields [1.0]](https://steamcommunity.com/workshop/filedetails/?id=1539311500)**
 - Rock mill (10W Idle, 900W Active)
