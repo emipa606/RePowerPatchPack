@@ -19,33 +19,4 @@
 		<poweredReservable>false</poweredReservable>
 	</RePower.RePowerDef>
 	
-	<RePower.RePowerDef>
-		<!-- Mechanoid platform -->
-		<defName>RePowerWTH_MechanoidPlatform</defName>
-		<targetDef>WTH_MechanoidPlatform</targetDef>
-		<lowPower>-10</lowPower>
-		<highPower>-800</highPower>
-		<poweredWorkbench>true</poweredWorkbench>
-		<poweredReservable>false</poweredReservable>
-	</RePower.RePowerDef>
-	
-	<RePower.RePowerDef>
-		<!-- Hiveship hacking facility -->
-		<defName>RePowerWTH_MechanoidBeacon</defName>
-		<targetDef>WTH_MechanoidBeacon</targetDef>
-		<lowPower>-10</lowPower>
-		<highPower>-600</highPower>
-		<poweredWorkbench>true</poweredWorkbench>
-		<poweredReservable>false</poweredReservable>
-	</RePower.RePowerDef>
-	
-	<RePower.RePowerDef>
-		<!-- Rogue AI -->
-		<defName>RePowerWTH_RogueAI</defName>
-		<targetDef>WTH_RogueAI</targetDef>
-		<lowPower>-10</lowPower>
-		<highPower>-800</highPower>
-		<poweredWorkbench>true</poweredWorkbench>
-		<poweredReservable>false</poweredReservable>
-	</RePower.RePowerDef>	
 </Defs>
