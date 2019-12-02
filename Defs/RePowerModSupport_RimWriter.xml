@@ -1,0 +1,11 @@
+<Defs>
+	<RePower.RePowerDef>
+		<!-- Electric papermaking station -->
+		<defName>RePowerRimWriter_PapermakingBenchElectric</defName>
+		<targetDef>RimWriter_PapermakingBenchElectric</targetDef>
+		<lowPower>-10</lowPower>
+		<highPower>-370</highPower>
+		<poweredWorkbench>true</poweredWorkbench>
+		<poweredReservable>false</poweredReservable>
+	</RePower.RePowerDef>	
+</Defs>
