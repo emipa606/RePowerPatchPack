@@ -1,7 +1,7 @@
 <Defs>
 	<RePower.RePowerDef>
 		<!-- Resource Console -->
-		<defName>RePowerNuclearResearchBench</defName>
+		<defName>RePowerResourceConsole</defName>
 		<targetDef>ResourceConsole</targetDef>
 		<lowPower>-10</lowPower>
 		<highPower>-400</highPower>
