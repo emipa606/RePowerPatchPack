@@ -1,9 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>RePower Patch Pack</name>
+	<packageId>Mlie.RePower.PatchPack</packageId>
 	<author>Mlie</author>
 	<supportedVersions>
 		<li>1.0</li>
+		<li>1.1</li>
 	</supportedVersions>
 	<url>https://github.com/emipa606/RePowerPatchPack</url>
 	<description>
