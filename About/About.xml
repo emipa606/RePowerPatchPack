@@ -16,7 +16,21 @@
 		</li>
 	</modDependencies>
 	<loadAfter>
-		<li>EbonJaeger.RePowerReborn</li>
+		<li>erdelf.HumanoidAlienRaces</li>
+		<li>n7huntsman.ceramics</li>
+		<li>Cocaine.ElectricStonecuttingTable</li>
+		<li>Ykara.EPOE</li>
+		<li>Solaris.FurnitureBase</li>
+		<li>Mlie.HighTechLaboratoryFacilities</li>
+		<li>Dubwise.Rimatomics</li>
+		<li>Dubwise.Rimefeller</li>
+		<li>dismarzero.VGP.VGPGardenGourmet</li>
+		<li>dismarzero.VGP.VGPGardenFabrics</li>
+		<li>spoonshortage.ADogSaidAnimalProsthetics</li>
+		<li>VanillaExpanded.VFEProduction</li>
+		<li>SquirtingElephant.PlanetaryDrillPlus</li>
+		<li>SquirtingElephant.EndgameBuildings</li>
+		<li>EbonJaeger.RePowerReborn</li>		
 	</loadAfter>
 	<description>
 Patches for various mods to use the RePower-system for a more realistic power consumption.
