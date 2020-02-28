@@ -8,6 +8,16 @@
 		<li>1.1</li>
 	</supportedVersions>
 	<url>https://github.com/emipa606/RePowerPatchPack</url>
+	<modDependencies>
+		<li>
+			<packageId>EbonJaeger.RePowerReborn</packageId>
+			<displayName>RePower Reborn</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/1845531445</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>EbonJaeger.RePowerReborn</li>
+	</loadAfter>
 	<description>
 Patches for various mods to use the RePower-system for a more realistic power consumption.
 If you are using a mod that is missing here, just leave a comment with a link to it and I'll add it to the pack if compatible!
