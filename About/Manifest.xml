@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
   <identifier>RePowerPatchPack</identifier>
-  <version>1.1.6.0</version>
+  <version>1.1.7.0</version>
   <dependencies>
     <li>RePowerReborn</li>
   </dependencies>
   <incompatibleWith />
   <loadBefore />
   <loadAfter>
-    <li>RePowerReborn</li>
     <li>VGPGardenGourmet</li>
     <li>VGPGardenFabrics</li>
-    <li>1-UN-Colony[1.0]</li>
-    <li>RT'sWeaponPackCEVersion[1.0]</li>
-    <li>RT'sWeaponPack[1.0]</li>
-    <li>[CP]Rimmu-Nation-Clothing(1.0)</li>
-    <li>[CP]Rimmu-Nation-Weapons(1.0)</li>
-    <li>[CP]Rimmu-Nation-GlovesN'Boots(1.0)</li>
+    <li>VGPGardenFabricsSimplified</li>
+    <li>UN-Colony</li>
+    <li>RT'sWeaponPackCEVersion</li>
+    <li>RT'sWeaponPack</li>
+    <li>[CP]Rimmu-Nation-Clothing</li>
+    <li>[CP]Rimmu-Nation-Weapons</li>
+    <li>[CP]Rimmu-Nation-GlovesN'Boots</li>
     <li>Rimefeller</li>
     <li>Rimatomics</li>
     <li>Rah'sBionicsandSurgeryExpansion</li>
@@ -27,21 +27,22 @@
     <li>GloomyFurniture</li>
     <li>ExpandedProstheticsandOrganEngineering</li>
     <li>ElectricStonecuttingTable</li>
-    <li>[1.0]Ceramics</li>
+    <li>Ceramics</li>
     <li>JecsTools</li>
     <li>HumanoidAlienRaces2.0</li>
-    <li>[1.0]Androidtiers</li>
+    <li>Androidtiers</li>
     <li>EndgameBuildings</li>
     <li>PlanetaryDrill+</li>
     <li>VanillaFurnitureExpanded-Production</li>
     <li>ADogSaid...AnimalProsthetics</li>
     <li>MendAndRecycle</li>
     <li>Whatthehack?!</li>
-    <li>[RF]FertileFields[1.0]</li>
+    <li>[RF]FertileFields</li>
     <li>ExpandedWoodworking</li>
     <li>RimWriter-Books,Scrolls,Tablets,andLibraries</li>
   </loadAfter>
   <manifestUri>https://raw.githubusercontent.com/emipa606/RePowerPatchPack/master/About/Manifest.xml</manifestUri>
   <downloadUri>https://github.com/emipa606/RePowerPatchPack/releases/latest</downloadUri>
 </Manifest>
+
 

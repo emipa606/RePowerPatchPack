@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>RePower Patch Pack</name>
 	<packageId>Mlie.RePower.PatchPack</packageId>
@@ -32,6 +32,7 @@
 		<li>SquirtingElephant.EndgameBuildings</li>
 		<li>vat.epoeforked</li>
 		<li>EbonJaeger.RePowerReborn</li>		
+		<li>Wemd.ReinforcedDoors</li>		
 	</loadAfter>
 	<description>
 Patches for various mods to use the RePower-system for a more realistic power consumption.
@@ -174,6 +175,12 @@ Electric woodworking table (10W Idle, 600W Active)
 RimWriter - Books, Scrolls, Tablets, and Libraries
 https://steamcommunity.com/workshop/filedetails/?id=1521844535
 Electric papermaking station (10W Idle, 370W Active)
+
+[WD] Reinforced Doors
+https://steamcommunity.com/workshop/filedetails/?id=1857597307
+Reinforced Autodoor (5W Idle, 500W Active)
+
+[img]https://raw.githubusercontent.com/emipa606/RimWorld-Wrapper/master/Notice.png[/img]
 
 Support-chat here: https://s.team/chat/KUDuzMGR
 	</description>
