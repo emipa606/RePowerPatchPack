@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>dd379592-3e81-45a6-bfe9-a84bfeca568a</ID>
   <ModName>RePower Patch Pack</ModName>
-  <Version>1.1.7.0</Version>
+  <Version>1.1.8.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,4 +12,5 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
+
 

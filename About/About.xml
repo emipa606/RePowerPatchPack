@@ -33,6 +33,7 @@
 		<li>vat.epoeforked</li>
 		<li>EbonJaeger.RePowerReborn</li>		
 		<li>Wemd.ReinforcedDoors</li>		
+		<li>SkullOG.EBT</li>		
 	</loadAfter>
 	<description>
 Patches for various mods to use the RePower-system for a more realistic power consumption.
@@ -180,7 +181,9 @@ Electric papermaking station (10W Idle, 370W Active)
 https://steamcommunity.com/workshop/filedetails/?id=1857597307
 Reinforced Autodoor (5W Idle, 500W Active)
 
-[img]https://raw.githubusercontent.com/emipa606/RimWorld-Wrapper/master/Notice.png[/img]
+Electric Butcher Table Continued
+https://steamcommunity.com/workshop/filedetails/?id=2025416804
+Electric Butcher Table (10W Idle, 500W Active)
 
 Support-chat here: https://s.team/chat/KUDuzMGR
 	</description>
