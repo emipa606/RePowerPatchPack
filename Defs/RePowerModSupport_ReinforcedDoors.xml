@@ -1,11 +1,11 @@
 <Defs>
-	<RePower.RePowerDef>
-		<!-- Reinforced Autodoor -->
-		<defName>RePowerWDReinforcedAutodoor</defName>
-		<targetDef>WDReinforcedAutodoor</targetDef>
-		<lowPower>-5</lowPower>
-		<highPower>-500</highPower>
-		<poweredWorkbench>false</poweredWorkbench>
-		<poweredReservable>true</poweredReservable>
-	</RePower.RePowerDef>	
+  <RePower.RePowerDef>
+    <!-- Reinforced Autodoor -->
+    <defName>RePowerWDReinforcedAutodoor</defName>
+    <targetDef>WDReinforcedAutodoor</targetDef>
+    <lowPower>-5</lowPower>
+    <highPower>-500</highPower>
+    <poweredWorkbench>false</poweredWorkbench>
+    <poweredReservable>true</poweredReservable>
+  </RePower.RePowerDef>
 </Defs>

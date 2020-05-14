@@ -1,11 +1,11 @@
 <Defs>
-	<RePower.RePowerDef>
-		<!-- Planetary Drill + -->
-		<defName>RePowerSE_PlanetaryDrillPlus</defName>
-		<targetDef>SE_PlanetaryDrillPlus</targetDef>
-		<lowPower>-10</lowPower>
-		<highPower>-7000</highPower>
-		<poweredWorkbench>true</poweredWorkbench>
-		<poweredReservable>false</poweredReservable>
-	</RePower.RePowerDef>
+  <RePower.RePowerDef>
+    <!-- Planetary Drill + -->
+    <defName>RePowerSE_PlanetaryDrillPlus</defName>
+    <targetDef>SE_PlanetaryDrillPlus</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-7000</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
 </Defs>

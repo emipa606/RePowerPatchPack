@@ -1,41 +1,38 @@
 <Defs>
-	<RePower.RePowerDef>
-		<!-- VGP Electric Oven-->
-		<defName>RePowerElectricOven</defName>
-		<targetDef>ElectricOven</targetDef>
-		<lowPower>-50</lowPower>
-		<highPower>-1250</highPower>
-		<poweredWorkbench>true</poweredWorkbench>
-		<poweredReservable>false</poweredReservable>
-	</RePower.RePowerDef>
-
-	<RePower.RePowerDef>
-		<!-- VGP Food Prep Table -->
-		<defName>RePowerCanningstove</defName>
-		<targetDef>Canningstove</targetDef>
-		<lowPower>-10</lowPower>
-		<highPower>-750</highPower>
-		<poweredWorkbench>true</poweredWorkbench>
-		<poweredReservable>false</poweredReservable>
-	</RePower.RePowerDef>
-
-	<RePower.RePowerDef>
-		<!-- VGP Sweets Table -->
-		<defName>RePowerCandyTable</defName>
-		<targetDef>CandyTable</targetDef>
-		<lowPower>-10</lowPower>
-		<highPower>-400</highPower>
-		<poweredWorkbench>true</poweredWorkbench>
-		<poweredReservable>false</poweredReservable>
-	</RePower.RePowerDef>
-
-	<RePower.RePowerDef>
-		<!-- Electric loom -->
-		<defName>RePowerTableElecLoom</defName>
-		<targetDef>TableElecLoom</targetDef>
-		<lowPower>-10</lowPower>
-		<highPower>-500</highPower>
-		<poweredWorkbench>true</poweredWorkbench>
-		<poweredReservable>false</poweredReservable>
-	</RePower.RePowerDef>
+  <RePower.RePowerDef>
+    <!-- VGP Electric Oven-->
+    <defName>RePowerElectricOven</defName>
+    <targetDef>ElectricOven</targetDef>
+    <lowPower>-50</lowPower>
+    <highPower>-1250</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
+  <RePower.RePowerDef>
+    <!-- VGP Food Prep Table -->
+    <defName>RePowerCanningstove</defName>
+    <targetDef>Canningstove</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-750</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
+  <RePower.RePowerDef>
+    <!-- VGP Sweets Table -->
+    <defName>RePowerCandyTable</defName>
+    <targetDef>CandyTable</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-400</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
+  <RePower.RePowerDef>
+    <!-- Electric loom -->
+    <defName>RePowerTableElecLoom</defName>
+    <targetDef>TableElecLoom</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-500</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
 </Defs>

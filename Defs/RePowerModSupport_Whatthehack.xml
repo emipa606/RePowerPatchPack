@@ -1,22 +1,20 @@
 <Defs>
-	<RePower.RePowerDef>
-		<!-- Mechanoid hacking facility -->
-		<defName>RePowerWTH_HackingTable</defName>
-		<targetDef>WTH_HackingTable</targetDef>
-		<lowPower>-10</lowPower>
-		<highPower>-700</highPower>
-		<poweredWorkbench>true</poweredWorkbench>
-		<poweredReservable>false</poweredReservable>
-	</RePower.RePowerDef>	
-	
-	<RePower.RePowerDef>
-		<!-- Mechanoid workshop -->
-		<defName>RePowerWTH_TableMechanoidWorkshop</defName>
-		<targetDef>WTH_TableMechanoidWorkshop</targetDef>
-		<lowPower>-10</lowPower>
-		<highPower>-900</highPower>
-		<poweredWorkbench>true</poweredWorkbench>
-		<poweredReservable>false</poweredReservable>
-	</RePower.RePowerDef>
-	
+  <RePower.RePowerDef>
+    <!-- Mechanoid hacking facility -->
+    <defName>RePowerWTH_HackingTable</defName>
+    <targetDef>WTH_HackingTable</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-700</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
+  <RePower.RePowerDef>
+    <!-- Mechanoid workshop -->
+    <defName>RePowerWTH_TableMechanoidWorkshop</defName>
+    <targetDef>WTH_TableMechanoidWorkshop</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-900</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
 </Defs>

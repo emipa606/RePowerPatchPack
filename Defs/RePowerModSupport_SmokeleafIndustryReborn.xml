@@ -1,28 +1,28 @@
 <Defs>
   <RePower.RePowerDef>
-    <!-- Electric Stove -->
-    <defName>RePowerGL_ElectricStove</defName>
-    <targetDef>GL_ElectricStove</targetDef>
+    <!-- Smokeleaf Cultivation Bench -->
+    <defName>RePowerPoweredCultivationBench</defName>
+    <targetDef>PoweredCultivationBench</targetDef>
     <lowPower>-10</lowPower>
-    <highPower>-800</highPower>
+    <highPower>-350</highPower>
     <poweredWorkbench>true</poweredWorkbench>
     <poweredReservable>false</poweredReservable>
   </RePower.RePowerDef>
   <RePower.RePowerDef>
-    <!-- Electric Tailoring Bench -->
-    <defName>RePowerGL_ElectricTailoringBench</defName>
-    <targetDef>GL_ElectricTailoringBench</targetDef>
+    <!-- Smokeleaf Medicinals Lab -->
+    <defName>RePowerMedicinalsLab</defName>
+    <targetDef>MedicinalsLab</targetDef>
     <lowPower>-10</lowPower>
-    <highPower>-400</highPower>
+    <highPower>-550</highPower>
     <poweredWorkbench>true</poweredWorkbench>
     <poweredReservable>false</poweredReservable>
   </RePower.RePowerDef>
   <RePower.RePowerDef>
-    <!-- Electric Smithy -->
-    <defName>RePowerGL_ElectricSmithy</defName>
-    <targetDef>GL_ElectricSmithy</targetDef>
+    <!-- Smokeleaf Auto Trimmer -->
+    <defName>RePowerSmokeleafAutoTrimmer</defName>
+    <targetDef>SmokeleafAutoTrimmer</targetDef>
     <lowPower>-10</lowPower>
-    <highPower>-500</highPower>
+    <highPower>-1100</highPower>
     <poweredWorkbench>true</poweredWorkbench>
     <poweredReservable>false</poweredReservable>
   </RePower.RePowerDef>

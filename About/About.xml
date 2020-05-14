@@ -1,41 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>RePower Patch Pack</name>
-	<packageId>Mlie.RePower.PatchPack</packageId>
-	<author>Mlie</author>
-	<supportedVersions>
-		<li>1.0</li>
-		<li>1.1</li>
-	</supportedVersions>
-	<url>https://github.com/emipa606/RePowerPatchPack</url>
-	<modDependencies>
-		<li>
-			<packageId>EbonJaeger.RePowerReborn</packageId>
-			<displayName>RePower Reborn</displayName>
-			<steamWorkshopUrl>steam://url/CommunityFilePage/1845531445</steamWorkshopUrl>
-		</li>
-	</modDependencies>
-	<loadAfter>
-		<li>erdelf.HumanoidAlienRaces</li>
-		<li>n7huntsman.ceramics</li>
-		<li>Cocaine.ElectricStonecuttingTable</li>
-		<li>Ykara.EPOE</li>
-		<li>Solaris.FurnitureBase</li>
-		<li>Mlie.HighTechLaboratoryFacilities</li>
-		<li>Dubwise.Rimatomics</li>
-		<li>Dubwise.Rimefeller</li>
-		<li>dismarzero.VGP.VGPGardenGourmet</li>
-		<li>dismarzero.VGP.VGPGardenFabrics</li>
-		<li>spoonshortage.ADogSaidAnimalProsthetics</li>
-		<li>VanillaExpanded.VFEProduction</li>
-		<li>SquirtingElephant.PlanetaryDrillPlus</li>
-		<li>SquirtingElephant.EndgameBuildings</li>
-		<li>vat.epoeforked</li>
-		<li>EbonJaeger.RePowerReborn</li>		
-		<li>Wemd.ReinforcedDoors</li>		
-		<li>SkullOG.EBT</li>		
-	</loadAfter>
-	<description>
+  <name>RePower Patch Pack</name>
+  <packageId>Mlie.RePower.PatchPack</packageId>
+  <author>Mlie</author>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+  </supportedVersions>
+  <url>https://github.com/emipa606/RePowerPatchPack</url>
+  <modDependencies>
+    <li>
+      <packageId>EbonJaeger.RePowerReborn</packageId>
+      <displayName>RePower Reborn</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/1845531445</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>erdelf.HumanoidAlienRaces</li>
+    <li>n7huntsman.ceramics</li>
+    <li>Cocaine.ElectricStonecuttingTable</li>
+    <li>Ykara.EPOE</li>
+    <li>Solaris.FurnitureBase</li>
+    <li>Mlie.HighTechLaboratoryFacilities</li>
+    <li>Dubwise.Rimatomics</li>
+    <li>Dubwise.Rimefeller</li>
+    <li>dismarzero.VGP.VGPGardenGourmet</li>
+    <li>dismarzero.VGP.VGPGardenFabrics</li>
+    <li>spoonshortage.ADogSaidAnimalProsthetics</li>
+    <li>VanillaExpanded.VFEProduction</li>
+    <li>SquirtingElephant.PlanetaryDrillPlus</li>
+    <li>SquirtingElephant.EndgameBuildings</li>
+    <li>vat.epoeforked</li>
+    <li>EbonJaeger.RePowerReborn</li>
+    <li>Wemd.ReinforcedDoors</li>
+    <li>SkullOG.EBT</li>
+    <li>bishop.smokeleafindustryreborn</li>
+  </loadAfter>
+  <description>
 Patches for various mods to use the RePower-system for a more realistic power consumption.
 If you are using a mod that is missing here, just leave a comment with a link to it and I'll add it to the pack if compatible!
 
@@ -184,6 +185,12 @@ Reinforced Autodoor (5W Idle, 500W Active)
 Electric Butcher Table Continued
 https://steamcommunity.com/workshop/filedetails/?id=2025416804
 Electric Butcher Table (10W Idle, 500W Active)
+
+Smokeleaf Industry Reborn
+https://steamcommunity.com/workshop/filedetails/?id=1876387936
+Smokeleaf Cultivation Bench (10W Idle, 350W Active)
+Smokeleaf Medicinals Lab (10W Idle, 550W Active)
+Smokeleaf Auto Trimmer (10W Idle, 1100W Active)
 
 Support-chat here: https://s.team/chat/KUDuzMGR
 	</description>

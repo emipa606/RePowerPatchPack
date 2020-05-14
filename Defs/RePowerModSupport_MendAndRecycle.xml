@@ -1,11 +1,11 @@
 <Defs>
-	<RePower.RePowerDef>
-		<!-- mending workbench -->
-		<defName>RePowerTableMending</defName>
-		<targetDef>TableMending</targetDef>
-		<lowPower>-10</lowPower>
-		<highPower>-600</highPower>
-		<poweredWorkbench>true</poweredWorkbench>
-		<poweredReservable>false</poweredReservable>
-	</RePower.RePowerDef>	
+  <RePower.RePowerDef>
+    <!-- mending workbench -->
+    <defName>RePowerTableMending</defName>
+    <targetDef>TableMending</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-600</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
 </Defs>

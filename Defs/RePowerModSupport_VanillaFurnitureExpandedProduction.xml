@@ -1,82 +1,74 @@
 <Defs>
-	<RePower.RePowerDef>
-		<!-- large machining table -->
-		<defName>RePowerVFE_TableMachiningLarge</defName>
-		<targetDef>VFE_TableMachiningLarge</targetDef>
-		<lowPower>-10</lowPower>
-		<highPower>-1400</highPower>
-		<poweredWorkbench>true</poweredWorkbench>
-		<poweredReservable>false</poweredReservable>
-	</RePower.RePowerDef>
-
-	<RePower.RePowerDef>
-		<!-- large electric smithy -->
-		<defName>RePowerVFE_TableSmithyLarge</defName>
-		<targetDef>VFE_TableSmithyLarge</targetDef>
-		<lowPower>-10</lowPower>
-		<highPower>-1000</highPower>
-		<poweredWorkbench>true</poweredWorkbench>
-		<poweredReservable>false</poweredReservable>
-	</RePower.RePowerDef>
-
-	<RePower.RePowerDef>
-		<!-- large stove -->
-		<defName>RePowerVFE_TableStoveLarge</defName>
-		<targetDef>VFE_TableStoveLarge</targetDef>
-		<lowPower>-10</lowPower>
-		<highPower>-1500</highPower>
-		<poweredWorkbench>true</poweredWorkbench>
-		<poweredReservable>false</poweredReservable>
-	</RePower.RePowerDef>
-
-	<RePower.RePowerDef>
-		<!-- large tailoring table -->
-		<defName>RePowerVFE_TableTailorLarge</defName>
-		<targetDef>VFE_TableTailorLarge</targetDef>
-		<lowPower>-10</lowPower>
-		<highPower>-500</highPower>
-		<poweredWorkbench>true</poweredWorkbench>
-		<poweredReservable>false</poweredReservable>
-	</RePower.RePowerDef>	
-	
-	<RePower.RePowerDef>
-		<!-- Assembly bench -->
-		<defName>RePowerVFE_ComponentFabricationBench</defName>
-		<targetDef>VFE_ComponentFabricationBench</targetDef>
-		<lowPower>-10</lowPower>
-		<highPower>-600</highPower>
-		<poweredWorkbench>true</poweredWorkbench>
-		<poweredReservable>false</poweredReservable>
-	</RePower.RePowerDef>	
-	
-	<RePower.RePowerDef>
-		<!-- Electric Butcher -->
-		<defName>RePowerVFE_TableButcherElectric</defName>
-		<targetDef>VFE_TableButcherElectric</targetDef>
-		<lowPower>-10</lowPower>
-		<highPower>-800</highPower>
-		<poweredWorkbench>true</poweredWorkbench>
-		<poweredReservable>false</poweredReservable>
-	</RePower.RePowerDef>	
-	
-	<RePower.RePowerDef>
-		<!-- Electric Drug Lab -->
-		<defName>RePowerVFE_TableDrugLabElectric</defName>
-		<targetDef>VFE_TableDrugLabElectric</targetDef>
-		<lowPower>-10</lowPower>
-		<highPower>-900</highPower>
-		<poweredWorkbench>true</poweredWorkbench>
-		<poweredReservable>false</poweredReservable>
-	</RePower.RePowerDef>	
-	
-	<RePower.RePowerDef>
-		<!-- Electric Stone Cutter -->
-		<defName>RePowerVFE_TableStonecutterElectric</defName>
-		<targetDef>VFE_TableStonecutterElectric</targetDef>
-		<lowPower>-10</lowPower>
-		<highPower>-600</highPower>
-		<poweredWorkbench>true</poweredWorkbench>
-		<poweredReservable>false</poweredReservable>
-	</RePower.RePowerDef>	
-	
+  <RePower.RePowerDef>
+    <!-- large machining table -->
+    <defName>RePowerVFE_TableMachiningLarge</defName>
+    <targetDef>VFE_TableMachiningLarge</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-1400</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
+  <RePower.RePowerDef>
+    <!-- large electric smithy -->
+    <defName>RePowerVFE_TableSmithyLarge</defName>
+    <targetDef>VFE_TableSmithyLarge</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-1000</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
+  <RePower.RePowerDef>
+    <!-- large stove -->
+    <defName>RePowerVFE_TableStoveLarge</defName>
+    <targetDef>VFE_TableStoveLarge</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-1500</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
+  <RePower.RePowerDef>
+    <!-- large tailoring table -->
+    <defName>RePowerVFE_TableTailorLarge</defName>
+    <targetDef>VFE_TableTailorLarge</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-500</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
+  <RePower.RePowerDef>
+    <!-- Assembly bench -->
+    <defName>RePowerVFE_ComponentFabricationBench</defName>
+    <targetDef>VFE_ComponentFabricationBench</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-600</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
+  <RePower.RePowerDef>
+    <!-- Electric Butcher -->
+    <defName>RePowerVFE_TableButcherElectric</defName>
+    <targetDef>VFE_TableButcherElectric</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-800</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
+  <RePower.RePowerDef>
+    <!-- Electric Drug Lab -->
+    <defName>RePowerVFE_TableDrugLabElectric</defName>
+    <targetDef>VFE_TableDrugLabElectric</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-900</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
+  <RePower.RePowerDef>
+    <!-- Electric Stone Cutter -->
+    <defName>RePowerVFE_TableStonecutterElectric</defName>
+    <targetDef>VFE_TableStonecutterElectric</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-600</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
 </Defs>

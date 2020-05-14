@@ -1,12 +1,11 @@
 <Defs>
-	<RePower.RePowerDef>
-		<!-- animal prosthetics table -->
-		<defName>RePowerTableAnimalProsthetics</defName>
-		<targetDef>TableAnimalProsthetics</targetDef>
-		<lowPower>-10</lowPower>
-		<highPower>-250</highPower>
-		<poweredWorkbench>true</poweredWorkbench>
-		<poweredReservable>false</poweredReservable>
-	</RePower.RePowerDef>
-
+  <RePower.RePowerDef>
+    <!-- animal prosthetics table -->
+    <defName>RePowerTableAnimalProsthetics</defName>
+    <targetDef>TableAnimalProsthetics</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-250</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
 </Defs>

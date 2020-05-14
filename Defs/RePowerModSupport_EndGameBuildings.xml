@@ -1,31 +1,29 @@
 <Defs>
-	<RePower.RePowerDef>
-		<!-- hi-tech kitchen -->
-		<defName>RePowerHiTechKitchen</defName>
-		<targetDef>HiTechKitchen</targetDef>
-		<lowPower>-10</lowPower>
-		<highPower>-1000</highPower>
-		<poweredWorkbench>true</poweredWorkbench>
-		<poweredReservable>false</poweredReservable>
-	</RePower.RePowerDef>	
-	
-	<RePower.RePowerDef>
-		<!-- planetary Drill -->
-		<defName>RePowerSE_PlanetaryDrill</defName>
-		<targetDef>SE_PlanetaryDrill</targetDef>
-		<lowPower>-10</lowPower>
-		<highPower>-1000</highPower>
-		<poweredWorkbench>true</poweredWorkbench>
-		<poweredReservable>false</poweredReservable>
-	</RePower.RePowerDef>
-	
-	<RePower.RePowerDef>
-		<!-- Vitals Monitor MKII -->
-		<defName>RePowerVitalsMonitorMKII</defName>
-		<targetDef>VitalsMonitorMKII</targetDef>
-		<lowPower>-10</lowPower>
-		<highPower>-500</highPower>
-		<poweredWorkbench>true</poweredWorkbench>
-		<poweredReservable>false</poweredReservable>
-	</RePower.RePowerDef>	
+  <RePower.RePowerDef>
+    <!-- hi-tech kitchen -->
+    <defName>RePowerHiTechKitchen</defName>
+    <targetDef>HiTechKitchen</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-1000</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
+  <RePower.RePowerDef>
+    <!-- planetary Drill -->
+    <defName>RePowerSE_PlanetaryDrill</defName>
+    <targetDef>SE_PlanetaryDrill</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-1000</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
+  <RePower.RePowerDef>
+    <!-- Vitals Monitor MKII -->
+    <defName>RePowerVitalsMonitorMKII</defName>
+    <targetDef>VitalsMonitorMKII</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-500</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
 </Defs>
