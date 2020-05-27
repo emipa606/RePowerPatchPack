@@ -1,0 +1,74 @@
+<Defs>
+  <RePower.RePowerDef>
+    <!-- PC comms desk -->
+    <defName>RePowerCP_PCCommsStation</defName>
+    <targetDef>CP_PCCommsStation</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-250</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
+  <RePower.RePowerDef>
+    <!-- PC research desk -->
+    <defName>RePowerCP_ResearchStation</defName>
+    <targetDef>CP_ResearchStation</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-270</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
+  <RePower.RePowerDef>
+    <!-- black hat station -->
+    <defName>RePowerCP_BlackHatStation</defName>
+    <targetDef>CP_BlackHatStation</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-500</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
+  <RePower.RePowerDef>
+    <!-- VR trainer (Arcade) -->
+    <defName>RePowerRNVRTraining</defName>
+    <targetDef>RNVRTraining</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-300</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
+  <RePower.RePowerDef>
+    <!-- VR trainer (Arcade II) -->
+    <defName>RePowerRNVRTraining_II</defName>
+    <targetDef>RNVRTraining_II</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-300</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
+  <RePower.RePowerDef>
+    <!-- VR trainer (Aperture Science) -->
+    <defName>RePowerRNVRTraining_Portal</defName>
+    <targetDef>RNVRTraining_Portal</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-350</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
+  <RePower.RePowerDef>
+    <!-- red phone -->
+    <defName>RePowerRedPhoneRC</defName>
+    <targetDef>RedPhoneRC</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-300</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
+  <RePower.RePowerDef>
+    <!-- Military radio -->
+    <defName>RePowerMilitaryRadioRC</defName>
+    <targetDef>MilitaryRadioRC</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-350</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
+</Defs>
