@@ -27,6 +27,15 @@
     <poweredReservable>false</poweredReservable>
   </RePower.RePowerDef>
   <RePower.RePowerDef>
+    <!-- Electric Milling Stone -->
+    <defName>RePowerElectricGrindStone</defName>
+    <targetDef>ElectricGrindStone</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-200</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
+  <RePower.RePowerDef>
     <!-- Electric loom -->
     <defName>RePowerTableElecLoom</defName>
     <targetDef>TableElecLoom</targetDef>
