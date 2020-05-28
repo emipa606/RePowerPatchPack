@@ -1,0 +1,11 @@
+<Defs>
+  <RePower.RePowerDef>
+    <!-- Microwave -->
+    <defName>RePowerDMicrowave</defName>
+    <targetDef>DMicrowave</targetDef>
+    <lowPower>-5</lowPower>
+    <highPower>-1000</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
+</Defs>

@@ -36,6 +36,7 @@
     <li>SkullOG.EBT</li>
     <li>bishop.smokeleafindustryreborn</li>
     <li>CP.Military.Furniture</li>
+    <li>dame.hotmeals</li>
   </loadAfter>
   <description>
 Patches for various mods to use the RePower-system for a more realistic power consumption.
@@ -205,6 +206,10 @@ VR trainer (Aperture Science) (10W Idle, 350W Active)
 Red phone (10W Idle, 300W Active)
 Military radio (10W Idle, 350W Active)
 
-Support-chat here: https://s.team/chat/KUDuzMGR
+[D] Thermodynamics - Hot Meals
+https://steamcommunity.com/workshop/filedetails/?id=2110968173
+Microwave (5W Idle, 1000W Active)
+
+Support-chat here: https://invite.gg/Mlie
 	</description>
 </ModMetaData>
