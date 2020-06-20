@@ -1,0 +1,11 @@
+<Defs>
+  <RePower.RePowerDef>
+    <!-- Omni Core Drill -->
+    <defName>RePowerCoreDrill</defName>
+    <targetDef>CoreDrill</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-4000</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
+</Defs>

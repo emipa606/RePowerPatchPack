@@ -38,6 +38,7 @@
     <li>CP.Military.Furniture</li>
     <li>dame.hotmeals</li>
     <li>Mlie.HolyWasher</li>
+    <li>DoctorVanGogh.MiningShaft</li>
   </loadAfter>
   <description>
 Patches for various mods to use the RePower-system for a more realistic power consumption.
@@ -214,6 +215,10 @@ Microwave (5W Idle, 1000W Active)
 HolyWasher (Continued)
 https://steamcommunity.com/workshop/filedetails/?id=1136436925
 Holy Washer (5W Idle, 900W Active)
+
+Omni Core Drill
+https://steamcommunity.com/sharedfiles/filedetails/?id=1089876213
+Core drill (10W Idle, 4000W Active)
 
 Support-chat here: https://invite.gg/Mlie
 	</description>
