@@ -1,46 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
   <identifier>RePowerPatchPack</identifier>
-  <version>1.1.17.0</version>
-  <dependencies>
-    <li>RePowerReborn</li>
-  </dependencies>
+  <version>1.1.18.0</version>
+  <dependencies />
   <incompatibleWith />
   <loadBefore />
-  <loadAfter>
-    <li>VGPGardenGourmet</li>
-    <li>VGPGardenFabrics</li>
-    <li>VGPGardenFabricsSimplified</li>
-    <li>UN-Colony</li>
-    <li>RT'sWeaponPackCEVersion</li>
-    <li>RT'sWeaponPack</li>
-    <li>[CP]Rimmu-Nation-Clothing</li>
-    <li>[CP]Rimmu-Nation-Weapons</li>
-    <li>[CP]Rimmu-Nation-GlovesN'Boots</li>
-    <li>Rimefeller</li>
-    <li>Rimatomics</li>
-    <li>Rah'sBionicsandSurgeryExpansion</li>
-    <li>RBSEHardcoreEdition</li>
-    <li>ProjectRimFactory-Core</li>
-    <li>ProjectRimFactory3.0-PublicBeta</li>
-    <li>HighTechLaboratoryFacilities</li>
-    <li>GloomyFurniture</li>
-    <li>ExpandedProstheticsandOrganEngineering</li>
-    <li>ElectricStonecuttingTable</li>
-    <li>Ceramics</li>
-    <li>JecsTools</li>
-    <li>HumanoidAlienRaces2.0</li>
-    <li>Androidtiers</li>
-    <li>EndgameBuildings</li>
-    <li>PlanetaryDrill+</li>
-    <li>VanillaFurnitureExpanded-Production</li>
-    <li>ADogSaid...AnimalProsthetics</li>
-    <li>MendAndRecycle</li>
-    <li>Whatthehack?!</li>
-    <li>[RF]FertileFields</li>
-    <li>ExpandedWoodworking</li>
-    <li>RimWriter-Books,Scrolls,Tablets,andLibraries</li>
-  </loadAfter>
+  <loadAfter />
   <manifestUri>https://raw.githubusercontent.com/emipa606/RePowerPatchPack/master/About/Manifest.xml</manifestUri>
   <downloadUri>https://github.com/emipa606/RePowerPatchPack/releases/latest</downloadUri>
 </Manifest>
