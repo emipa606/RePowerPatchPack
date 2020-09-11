@@ -40,6 +40,7 @@
     <li>dame.hotmeals</li>
     <li>Mlie.HolyWasher</li>
     <li>DoctorVanGogh.MiningShaft</li>
+    <li>kikohi.jewelry</li>
   </loadAfter>
   <description>
 Patches for various mods to use the RePower-system for a more realistic power consumption.
@@ -53,7 +54,7 @@ Robotics production casket (10W Idle, 1000W Active)
 Android Implants workbench (10W Idle, 700W Active)
 Android parts workbench (10W Idle, 700W Active)
 
-[1.0] Ceramics
+Ceramics
 https://steamcommunity.com/workshop/filedetails/?id=1833163132
 Electric ceramics bench (10W Idle, 400W Active)
 Electric kiln (10W Idle, 600W Active)
@@ -84,9 +85,9 @@ ProjectRimFactory - Core
 https://github.com/spdskatr/ProjectRimFactory/releases/latest
 Robotic machining table (10W Idle, 900W Active)
 
-[1.0] Rah's Bionics and Surgery Expansion
+Rah's Bionics and Surgery Expansion
 https://steamcommunity.com/workshop/filedetails/?id=850429707
-[1.0] Rah's Bionics and Surgery Expansion - Hardcore Edition
+Rah's Bionics and Surgery Expansion - Hardcore Edition
 https://steamcommunity.com/workshop/filedetails/?id=850428056
 Advanced Medical Station (10W Idle, 1500W Active)
 Bionic Workbench (10W Idle, 1500W Active)
@@ -220,6 +221,10 @@ Holy Washer (5W Idle, 900W Active)
 Omni Core Drill
 https://steamcommunity.com/sharedfiles/filedetails/?id=1089876213
 Core drill (10W Idle, 4000W Active)
+
+Jewlery
+https://steamcommunity.com/sharedfiles/filedetails/?id=2020964421
+Laser sculpting table (10W Idle, 800W Active)
 
 Support-chat here: https://invite.gg/Mlie
 	</description>

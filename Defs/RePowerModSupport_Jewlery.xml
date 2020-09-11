@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RePower.RePowerDef>
+    <!-- Laser sculpting table -->
+    <defName>RePowerLaserTableSculpting</defName>
+    <targetDef>LaserTableSculpting</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-800</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
+</Defs>
