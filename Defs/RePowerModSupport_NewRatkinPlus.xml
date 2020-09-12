@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RePower.RePowerDef>
+    <!-- Electric tailor bench -->
+    <defName>RePowerRK_ElectricTailoringBench</defName>
+    <targetDef>RK_ElectricTailoringBench</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-500</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
+  <RePower.RePowerDef>
+    <!-- Electric smithy -->
+    <defName>RePowerRK_ElectricSmithy</defName>
+    <targetDef>RK_ElectricSmithy</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-600</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
+</Defs>

@@ -41,6 +41,8 @@
     <li>Mlie.HolyWasher</li>
     <li>DoctorVanGogh.MiningShaft</li>
     <li>kikohi.jewelry</li>
+    <li>Albion.SparklingWorlds.Full</li>
+    <li>Solaris.RatkinRaceMod</li>
   </loadAfter>
   <description>
 Patches for various mods to use the RePower-system for a more realistic power consumption.
@@ -225,6 +227,16 @@ Core drill (10W Idle, 4000W Active)
 Jewlery
 https://steamcommunity.com/sharedfiles/filedetails/?id=2020964421
 Laser sculpting table (10W Idle, 800W Active)
+
+Sparkling Worlds - Full Mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=1123043922
+Matterweaver (10W Idle, 700W Active)
+Mechanite assembly (10W Idle, 1000W Active)
+
+NewRatkinPlus
+https://steamcommunity.com/sharedfiles/filedetails/?id=1578693166
+Electric tailor bench (10W Idle, 500W Active)
+Electric smithy (10W Idle, 600W Active)
 
 Support-chat here: https://invite.gg/Mlie
 	</description>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RePower.RePowerDef>
+    <!-- Matterweaver -->
+    <defName>RePowerTableWeaverSW</defName>
+    <targetDef>TableWeaverSW</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-700</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
+  <RePower.RePowerDef>
+    <!-- Mechanite assembly -->
+    <defName>RePowerMechaniteAssemblySW</defName>
+    <targetDef>MechaniteAssemblySW</targetDef>
+    <lowPower>-10</lowPower>
+    <highPower>-1000</highPower>
+    <poweredWorkbench>true</poweredWorkbench>
+    <poweredReservable>false</poweredReservable>
+  </RePower.RePowerDef>
+</Defs>
