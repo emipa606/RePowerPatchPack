@@ -9,41 +9,8 @@
     <li>1.2</li>
   </supportedVersions>
   <url>https://github.com/emipa606/RePowerPatchPack</url>
-  <modDependencies>
-    <li>
-      <packageId>EbonJaeger.RePowerReborn</packageId>
-      <displayName>RePower Reborn</displayName>
-      <steamWorkshopUrl>steam://url/CommunityFilePage/1845531445</steamWorkshopUrl>
-    </li>
-  </modDependencies>
-  <loadAfter>
-    <li>erdelf.HumanoidAlienRaces</li>
-    <li>n7huntsman.ceramics</li>
-    <li>Cocaine.ElectricStonecuttingTable</li>
-    <li>Ykara.EPOE</li>
-    <li>Solaris.FurnitureBase</li>
-    <li>Mlie.HighTechLaboratoryFacilities</li>
-    <li>Dubwise.Rimatomics</li>
-    <li>Dubwise.Rimefeller</li>
-    <li>dismarzero.VGP.VGPGardenGourmet</li>
-    <li>dismarzero.VGP.VGPGardenFabrics</li>
-    <li>spoonshortage.ADogSaidAnimalProsthetics</li>
-    <li>VanillaExpanded.VFEProduction</li>
-    <li>SquirtingElephant.PlanetaryDrillPlus</li>
-    <li>SquirtingElephant.EndgameBuildings</li>
-    <li>vat.epoeforked</li>
-    <li>EbonJaeger.RePowerReborn</li>
-    <li>Wemd.ReinforcedDoors</li>
-    <li>SkullOG.EBT</li>
-    <li>bishop.smokeleafindustryreborn</li>
-    <li>CP.Military.Furniture</li>
-    <li>dame.hotmeals</li>
-    <li>Mlie.HolyWasher</li>
-    <li>DoctorVanGogh.MiningShaft</li>
-    <li>kikohi.jewelry</li>
-    <li>Albion.SparklingWorlds.Full</li>
-    <li>Solaris.RatkinRaceMod</li>
-  </loadAfter>
+  <modDependencies />
+  <loadAfter />
   <description>
 Patches for various mods to use the RePower-system for a more realistic power consumption.
 If you are using a mod that is missing here, just leave a comment with a link to it and I'll add it to the pack if compatible!
