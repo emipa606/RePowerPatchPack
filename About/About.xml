@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>RePower Patch Pack</name>
   <packageId>Mlie.RePower.PatchPack</packageId>
@@ -7,204 +7,79 @@
     <li>1.0</li>
     <li>1.1</li>
     <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
   <url>https://github.com/emipa606/RePowerPatchPack</url>
   <modDependencies />
-  <loadAfter />
-  <description>
+  <loadAfter>
+    <li>Mlie.TurnOnOffRePowered</li>
+  </loadAfter>
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+
 Patches for various mods to use the RePower-system for a more realistic power consumption.
-If you are using a mod that is missing here, just leave a comment with a link to it and I'll add it to the pack if compatible!
+If you are using a mod that is missing here, just leave a comment with a link to it and I&apos;ll add it to the pack if compatible!
+
+This pack contains all my other RePower-patches.
+
+Can be used with either the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1845531445]RePowerReborn-mod[/url] or my extended version [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2228219259]Turn It On and Off - RePowered[/url]
 
 Supported mods:
+[list]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=1386412863]Android Tiers[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=1833163132]Ceramics[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=1649368867]Electric Stonecutting Table[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=725956940]Expanded Prosthetics and Organ Engineering[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=1949064302]Expanded Prosthetics and Organ Engineering Forked[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=1558635181]GloomyFurniture[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=1542048177]High Tech Laboratory Facilities (Continued)[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1414438179]Project RimFactory 3.0 - Public Beta[/url]
+[*][url=https://github.com/spdskatr/ProjectRimFactory/releases/latest]ProjectRimFactory - Core[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=850429707] Rah&apos;s Bionics and Surgery Expansion[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=850428056] Rah&apos;s Bionics and Surgery Expansion - Hardcore Edition[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=1127530465]Rimatomics[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=1321849735]Rimefeller[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=1541536041][CP] Rimmu-Nation - Clothing[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=1608498683][CP] Rimmu-Nation - Weapons[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1836963709][CP] Rimmu-Nation - Gloves N&apos; Boots[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=1542036108]1- UN-Colony[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=2007062982]VGP Garden Gourmet[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=2007062162]VGP Garden Fabrics[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=1743009906]Endgame Buildings[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=1788136410]Planetary Drill+[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=1880253632]Vanilla Furniture Expanded - Production[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=746425621]A Dog Said... Animal Prosthetics[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=735241897]MendAndRecycle[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=1505914869]What the hack?![/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=1539311500][RF] Fertile Fields[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=1082915328]Expanded Woodworking[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=1521844535]RimWriter - Books, Scrolls, Tablets, and Libraries[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=1857597307][WD] Reinforced Doors[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=2025416804]Electric Butcher Table Continued[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=1876387936]Smokeleaf Industry Reborn[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=2019227986][CP] Military Furniture[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=2110968173][D] Thermodynamics - Hot Meals[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=1136436925]HolyWasher (Continued)[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=2020964421]Jewlery[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=1123043922]Sparkling Worlds - Full Mod[/url]
+[*][url=https://steamcommunity.com/workshop/filedetails/?id=1578693166]NewRatkinPlus[/url]
+[/list]
 
-Android Tiers
-https://steamcommunity.com/workshop/filedetails/?id=1386412863
-Robotics production casket (10W Idle, 1000W Active)
-Android Implants workbench (10W Idle, 700W Active)
-Android parts workbench (10W Idle, 700W Active)
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/RePowerPatchPack][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
 
-Ceramics
-https://steamcommunity.com/workshop/filedetails/?id=1833163132
-Electric ceramics bench (10W Idle, 400W Active)
-Electric kiln (10W Idle, 600W Active)
-Materials processing bench (10W Idle, 700W Active)
-
-Electric Stonecutting Table 
-https://steamcommunity.com/workshop/filedetails/?id=1649368867
-Electric Stonecutter's Table (10W Idle, 500W Active)
-
-Expanded Prosthetics and Organ Engineering
-https://steamcommunity.com/workshop/filedetails/?id=725956940
-Tissue Printer (10W Idle, 1000W Active)
-
-GloomyFurniture
-https://steamcommunity.com/workshop/filedetails/?id=1558635181
-Electric stove (10W Idle, 800W Active)
-Electric tailor bench (10W Idle, 400W Active)
-Electric smithy (10W Idle, 500W Active)
-
-High Tech Laboratory Facilities (Continued)
-https://steamcommunity.com/workshop/filedetails/?id=1542048177
-Laboratory Station (10W Idle, 750W Active)
-Research Terminal (10W Idle, 750W Active)
-
-Project RimFactory 3.0 - Public Beta
-https://steamcommunity.com/sharedfiles/filedetails/?id=1414438179
-ProjectRimFactory - Core
-https://github.com/spdskatr/ProjectRimFactory/releases/latest
-Robotic machining table (10W Idle, 900W Active)
-
-Rah's Bionics and Surgery Expansion
-https://steamcommunity.com/workshop/filedetails/?id=850429707
-Rah's Bionics and Surgery Expansion - Hardcore Edition
-https://steamcommunity.com/workshop/filedetails/?id=850428056
-Advanced Medical Station (10W Idle, 1500W Active)
-Bionic Workbench (10W Idle, 1500W Active)
-
-Rimatomics
-https://steamcommunity.com/workshop/filedetails/?id=1127530465
-Rimatomics research bench (10W Idle, 600W Active)
-Rimatomics machining table (10W Idle, 800W Active)
-Reactor console (10W Idle, 400W Active)
-Weapons console (10W Idle, 400W Active)
-
-Rimefeller
-https://steamcommunity.com/workshop/filedetails/?id=1321849735
-Resource Console (10W Idle, 400W Active)
-
-[CP] Rimmu-Nation - Clothing
-https://steamcommunity.com/workshop/filedetails/?id=1541536041
-RN Apparel bench (10W Idle, 250W Active)
-
-[CP] Rimmu-Nation - Weapons
-https://steamcommunity.com/workshop/filedetails/?id=1608498683
-RN CQB bench (10W Idle, 250W Active)
-RN Rifleman bench (10W Idle, 250W Active)
-RN Marksman bench (10W Idle, 250W Active)
-RN Heavy bench (10W Idle, 250W Active)
-
-[CP] Rimmu-Nation - Gloves N' Boots
-https://steamcommunity.com/sharedfiles/filedetails/?id=1836963709
-RN Mini tailor (10W Idle, 180W Active)
-
-1- UN-Colony
-https://steamcommunity.com/workshop/filedetails/?id=1542036108
-Electric Arc Furnace (400W Idle, 3000W Active)
-Metalworking Line (10W Idle, 400W Active)
-Assembly Line (10W Idle, 400W Active)
-Construction Machinery (20W Idle, 800W Active)
-Fuel Oil Refinery (10W Idle, 400W Active)
-Diesel Refinery (10W Idle, 400W Active)
-Advanced Refinery (10W Idle, 600W Active)
-
-VGP Garden Gourmet
-https://steamcommunity.com/workshop/filedetails/?id=1185906628
-Electric Oven (50W Idle, 1250W Active)
-Food Prep Table (10W Idle, 750W Active)
-Sweets Table (10W Idle, 400W Active)
-Electric Milling Stone (10W Idle, 200W Active)
-
-VGP Garden Fabrics
-https://steamcommunity.com/workshop/filedetails/?id=1185269798
-Electric Loom (10W Idle, 500W Active)
-
-Endgame Buildings
-https://steamcommunity.com/workshop/filedetails/?id=1743009906
-Hi-tech Kitchen (10W Idle, 1000W Active)
-Planetary Drill (10W Idle, 1000W Active)
-Vitals Monitor MKII (10W Idle, 500W Active)
-
-Planetary Drill+
-https://steamcommunity.com/workshop/filedetails/?id=1788136410
-Planetary Drill+ (10W Idle, 7000W Active)
-
-Vanilla Furniture Expanded - Production
-https://steamcommunity.com/workshop/filedetails/?id=1880253632
-Large machining table (10W Idle, 1400W Active)
-Large electric smithy (10W Idle, 1000W Active)
-Large stove (10W Idle, 1500W Active)
-Large tailoring table (10W Idle, 500W Active)
-Assembly bench (10W Idle, 600W Active)
-Electric Butcher (10W Idle, 800W Active)
-Electric Drug Lab (10W Idle, 900W Active)
-Electric Stone Cutter (10W Idle, 600W Active)
-
-A Dog Said... Animal Prosthetics
-https://steamcommunity.com/workshop/filedetails/?id=746425621
-Animal prosthetics table (10W Idle, 250W Active)
-
-MendAndRecycle
-https://steamcommunity.com/workshop/filedetails/?id=735241897
-Mending workbench (10W Idle, 600W Active)
-
-What the hack?!
-https://steamcommunity.com/workshop/filedetails/?id=1505914869
-Mechanoid hacking facility (10W Idle, 700W Active)
-Mechanoid workshop (10W Idle, 900W Active)
-
-[RF] Fertile Fields
-https://steamcommunity.com/workshop/filedetails/?id=1539311500
-Rock mill (10W Idle, 900W Active)
-
-Expanded Woodworking
-https://steamcommunity.com/workshop/filedetails/?id=1082915328
-Electric woodworking table (10W Idle, 600W Active)
-
-RimWriter - Books, Scrolls, Tablets, and Libraries
-https://steamcommunity.com/workshop/filedetails/?id=1521844535
-Electric papermaking station (10W Idle, 370W Active)
-
-[WD] Reinforced Doors
-https://steamcommunity.com/workshop/filedetails/?id=1857597307
-Reinforced Autodoor (5W Idle, 500W Active)
-
-Electric Butcher Table Continued
-https://steamcommunity.com/workshop/filedetails/?id=2025416804
-Electric Butcher Table (10W Idle, 500W Active)
-
-Smokeleaf Industry Reborn
-https://steamcommunity.com/workshop/filedetails/?id=1876387936
-Smokeleaf Cultivation Bench (10W Idle, 350W Active)
-Smokeleaf Medicinals Lab (10W Idle, 550W Active)
-Smokeleaf Auto Trimmer (10W Idle, 1100W Active)
-
-[CP] Military Furniture
-https://steamcommunity.com/workshop/filedetails/?id=2019227986
-PC comms desk (10W Idle, 250W Active)
-PC research desk (10W Idle, 270W Active)
-Black hat station (10W Idle, 500W Active)
-VR trainer (Arcade) (10W Idle, 300W Active)
-VR trainer (Arcade II) (10W Idle, 300W Active)
-VR trainer (Aperture Science) (10W Idle, 350W Active)
-Red phone (10W Idle, 300W Active)
-Military radio (10W Idle, 350W Active)
-
-[D] Thermodynamics - Hot Meals
-https://steamcommunity.com/workshop/filedetails/?id=2110968173
-Microwave (5W Idle, 1000W Active)
-
-HolyWasher (Continued)
-https://steamcommunity.com/workshop/filedetails/?id=1136436925
-Holy Washer (5W Idle, 900W Active)
-
-Omni Core Drill
-https://steamcommunity.com/sharedfiles/filedetails/?id=1089876213
-Core drill (10W Idle, 4000W Active)
-
-Jewlery
-https://steamcommunity.com/sharedfiles/filedetails/?id=2020964421
-Laser sculpting table (10W Idle, 800W Active)
-
-Sparkling Worlds - Full Mod
-https://steamcommunity.com/sharedfiles/filedetails/?id=1123043922
-Matterweaver (10W Idle, 700W Active)
-Mechanite assembly (10W Idle, 1000W Active)
-
-NewRatkinPlus
-https://steamcommunity.com/sharedfiles/filedetails/?id=1578693166
-Electric tailor bench (10W Idle, 500W Active)
-Electric smithy (10W Idle, 600W Active)
-
-Support-chat here: https://invite.gg/Mlie
-	</description>
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
 </ModMetaData>
+
