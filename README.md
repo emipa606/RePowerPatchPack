@@ -1,10 +1,10 @@
 # RePowerPatchPack
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 
 Patches for various mods to use the RePower-system for a more realistic power consumption.
-If you are using a mod that is missing here, just leave a comment with a link to it and I&apos;ll add it to the pack if compatible!
+If you are using a mod that is missing here, just leave a comment with a link to it and I'll add it to the pack if compatible!
 
 This pack contains all my other RePower-patches.
 
@@ -22,13 +22,13 @@ Supported mods:
 - https://steamcommunity.com/workshop/filedetails/?id=1542048177]High Tech Laboratory Facilities (Continued)
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1414438179]Project RimFactory 3.0 - Public Beta
 - https://github.com/spdskatr/ProjectRimFactory/releases/latest]ProjectRimFactory - Core
-- https://steamcommunity.com/workshop/filedetails/?id=850429707] Rah&apos;s Bionics and Surgery Expansion
-- https://steamcommunity.com/workshop/filedetails/?id=850428056] Rah&apos;s Bionics and Surgery Expansion - Hardcore Edition
+- https://steamcommunity.com/workshop/filedetails/?id=850429707] Rah's Bionics and Surgery Expansion
+- https://steamcommunity.com/workshop/filedetails/?id=850428056] Rah's Bionics and Surgery Expansion - Hardcore Edition
 - https://steamcommunity.com/workshop/filedetails/?id=1127530465]Rimatomics
 - https://steamcommunity.com/workshop/filedetails/?id=1321849735]Rimefeller
 - https://steamcommunity.com/workshop/filedetails/?id=1541536041][CP] Rimmu-Nation - Clothing
 - https://steamcommunity.com/workshop/filedetails/?id=1608498683][CP] Rimmu-Nation - Weapons
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1836963709][CP] Rimmu-Nation - Gloves N&apos; Boots
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1836963709][CP] Rimmu-Nation - Gloves N' Boots
 - https://steamcommunity.com/workshop/filedetails/?id=1542036108]1- UN-Colony
 - https://steamcommunity.com/workshop/filedetails/?id=2007062982]VGP Garden Gourmet
 - https://steamcommunity.com/workshop/filedetails/?id=2007062162]VGP Garden Fabrics
@@ -53,16 +53,14 @@ Supported mods:
 
 
 
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/RePowerPatchPack]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
+![Image](https://i.imgur.com/O0IIlYj.png)
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+Since modding is just a hobby for me I expect no donations to keep modding. If you still want to show your support you can gift me anything from my https://store.steampowered.com/wishlist/id/Mlie]Wishlist or buy me a cup of tea.
+
+https://ko-fi.com/G2G55DDYD]![Image](https://i.imgur.com/Utx6OIH.png)
+
+
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -72,6 +70,7 @@ Supported mods:
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
