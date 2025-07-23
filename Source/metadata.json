@@ -2,5 +2,18 @@
   "Continued": false,
   "CanAdd": "0",
   "CanRemove": "0",
-  "PreviewVersion": "1.5"
+  "PreviewVersion": "1.6",
+  "LastXmlCleaning": "2025-07-23T16:33:47.4577441+02:00",
+  "Patches": false,
+  "Defs": true,
+  "Assemblies": false,
+  "LinesOfCode": 0,
+  "LinesOfXML": 28855,
+  "CodeBaseSize": 70,
+  "SocialImageSet": true,
+  "FundingSet": true,
+  "SearchTags": [
+    " power consumption",
+    " patches"
+  ]
 }
