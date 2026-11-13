@@ -1,6 +1,6 @@
 # [RePower Patch Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=1836577627)
 
-![Image](https://i.imgur.com/buuPQel.png)
+![Image](https://img.litet.net/logos/Info.png)
 
 Patches for various mods to use the RePower-system for a more realistic power consumption.
 If you are using a mod that is missing here, just leave a comment with a link to it and I'll add it to the pack if compatible!
@@ -52,19 +52,19 @@ Supported mods:
 
 
 
-![Image](https://i.imgur.com/O0IIlYj.png)
+![Image](https://img.litet.net/O0IIlYj.png)
 
 Since modding is just a hobby for me I expect no donations to keep modding. If you still want to show your support you can gift me anything from my [Wishlist](https://store.steampowered.com/wishlist/id/Mlie) or buy me a cup of tea.
 
-[![Image](https://i.imgur.com/Utx6OIH.png)](https://ko-fi.com/G2G55DDYD)
+[![Image](https://img.litet.net/Utx6OIH.png)](https://ko-fi.com/G2G55DDYD)
 
-![Image](https://i.imgur.com/PwoNOj4.png)
+![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  Always post your log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
@@ -72,7 +72,7 @@ Since modding is just a hobby for me I expect no donations to keep modding. If y
 
 
 
-![Image](https://i.imgur.com/5xwDG6H.png)
+![Image](https://img.litet.net/logos/Self-ReportingIssues.png)
 
 
 
@@ -86,4 +86,4 @@ Since modding is just a hobby for me I expect no donations to keep modding. If y
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/RePowerPatchPack?label=latest%20version&style=plastic&labelColor=0070cd&color=white)](https://steamcommunity.com/sharedfiles/filedetails/changelog/1836577627) | tags:  power consumption,  patches
+[![Image](https://img.shields.io/github/v/release/emipa606/RePowerPatchPack?label=latest%20version&style=plastic&labelColor=0070cd&color=white)](https://steamcommunity.com/sharedfiles/filedetails/changelog/1836577627) | patches, power consumption
